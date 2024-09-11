@@ -93,4 +93,4 @@ dependencies {
 ### Screenshot
 
 Here is a screenshot of the library in action:
-![Library Screenshot](src/main/resources/screenshots/screenshot.png)
+<img alt="Library Screenshot" src="src/main/resources/screenshots/screenshot.png"/>
